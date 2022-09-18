@@ -14,18 +14,26 @@ Seu maior interesse é entender como projetar sistemas de software para maximiza
 
 Ele começou a trabalhar com desenvolvimento de software no início dos anos 80 e escreveu vários livros populares sobre desenvolvimento, alguns deles já traduzidos para português.
 
-
+<br>
+<br>
+  
 ## Thought Works
 
 <a href="https://www.thoughtworks.com/pt-br"><img alt="ThoughtWorks" src="https://fway.com/wp-content/uploads/2019/08/99999_Thoughtworks-Brasil-Software.jpg" align="left" width="17%" /></a>
 
 Martin Fowler é o CEO da ThoughtWorks Inc, presidente da Scrum Foundation e é agile coach da OpenView Venture Partners. De desenvolvedor de software, a carreira de Jeff mudou completamente. Seu trabalho agora é praticamente totalmente voltado ao Scrum, trabalhando para usar a metodologia para transformar empresas, assim como empoderar desenvolvedores de software. Porém, o trabalho não se limita a isso, pois como você bem sabe, o Scrum se tornou uma metodologia mundial, extrapolando apenas este setor e atingindo sucesso em implementações nas mais diferentes áreas: como o Marketing, Vendas, Desenvolvimento, Treinamento, Finanças e Produção de Conteúdo.
 
+<br>
+<br>
+  
 ## O que é Desenvolvimento Ágil?
 
 <a href="http://agilemanifesto.org/iso/ptbr/manifesto.html"><img alt="Manifesto Agil" src="https://4everbetapt.files.wordpress.com/2013/10/manifesto-para-desenvolvimento-c3a1gil-de-software.png" align="left" width="17%" /></a>
 
 Desenvolvimento Ágil de Software (em inglês: Agile software development) ou Método ágil é uma disciplina que estuda um conjunto de comportamentos, processos, práticas e ferramentas utilizados para a criação de produtos (geralmente de, mas não limitados a, software) e sua subsequente disponibilização para os usuários finais. As metodologias e frameworks que fazem parte do conceito de desenvolvimento ágil (como o Scrum, por exemplo) providenciam uma estrutura conceitual para conduzir projetos de engenharia de software.
+
+<br>
+<br>
 
 ## SCRUM
 
@@ -36,7 +44,8 @@ Fowler e outros membros da sua equipe foram os primeiros a experimentar com o m�
 Apesar de ser criado para gerenciamento de projetos de software, também pode ser utilizado em equipes de manutenção de software ou como uma abordagem geral de gerenciamento de projetos/programas.
 
 Atualmente, as técnicas de DevOps são utilizadas por programadores no desenvolvimento de software em conjunto com técnicas de gestão e desenvolvimento ágil de software, como o Scrum. De lá para cá, a metodologia apenas cresceu. De acordo com a <a href="https://www.scrum.org">Scrum.org</a>, mais de 70% de empresas que usam metodologias ágeis, adotam o Scrum.
-
+  
+&nbsp;
 <img alt="Scrum" src="https://www.scrum.as/academy/5/gfx/scrum_1.0_1.png" align="center" width="100%" />
 
 #### _Fontes_:
